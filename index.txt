@@ -1,0 +1,14 @@
+<html>
+<head>
+<title>Page Title</title>
+<head>
+<body>
+
+<h1><b><center><p style="color:#ff0000">WEB DESIGN</b></h1>
+<p><center><h3>Hi, Im Yoshitha. Shortly, Yo! :)</h3>
+<h4>This is my first class for web design and I'm pretty skeptical about it.
+<br>Bye.</h4></center><p>
+
+</body>
+</html>
+
